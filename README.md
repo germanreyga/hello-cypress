@@ -1,5 +1,5 @@
 # hello-cypress
-Small proof of concept of browser automated tests using the Cypress framework
+Small proof of concept of end-to-end tests using the Cypress framework
 
 ## Install dependencies
 Execute `npm install` on root directory
